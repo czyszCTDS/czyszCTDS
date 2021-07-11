@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+
+Bioinformaticist Scientist and Python Developer.
 
 <!--
 **czyszCTDS/czyszCTDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
